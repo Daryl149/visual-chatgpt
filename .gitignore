@@ -1,0 +1,9 @@
+# ignore files
+openai_api_key.txt
+
+# ignore folders
+/visual_chatgpt_1
+annotator
+cldm
+ControlNet/
+ldm
