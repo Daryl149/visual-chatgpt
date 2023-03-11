@@ -28,3 +28,5 @@ diffusers
 gradio
 openai
 accelerate
+MarkupSafe==2.0.1
+Werkzeug==2.1.1
