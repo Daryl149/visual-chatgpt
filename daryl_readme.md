@@ -1,7 +1,7 @@
 # visual_chatgpt
 
 # create a new env
-python3 -m venv visual_chatgpt_1 --system-site-packages
+python3.8 -m venv visual_chatgpt_1 --system-site-packages
 source visual_chatgpt_1/bin/activate
 
 #  prepare the basic environments
